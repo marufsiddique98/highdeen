@@ -856,6 +856,23 @@ h6 {
     text-transform: uppercase;
 }
 
+.team .btn {
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background: #4F84C4;
+    border-radius: 0;
+    transition: 0.3s;
+}
+
+.team .btn:hover {
+    color: #ffffff;
+    background: #353535;
+}
+
 
 
 /**************************************/
